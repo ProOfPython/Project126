@@ -1,0 +1,12 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 22.5px;
+    width: 100%;
+    color:palegreen;
+}
+.measure{
+    font-size: 22.5px;
+    margin: 25px;
+}
